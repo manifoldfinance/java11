@@ -1,7 +1,5 @@
 ## run-java.sh
 
-[![CircleCI](https://circleci.com/gh/fabric8io-images/run-java-sh.svg?style=svg)](https://circleci.com/gh/fabric8io-images/run-java-sh) | [Usage](fish-pepper/run-java-sh/readme.md)
-
 `run-java.sh` is a universal startup script for Java applications, especially crafted for being run from within containers.
 
 Some highlights:
