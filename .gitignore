@@ -1,2 +1,17 @@
 .DS_Store
 node_modules
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# Package Files #
+#*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+
+# hotspot
+hs_err_pid*
